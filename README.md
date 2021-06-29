@@ -4,3 +4,7 @@ Coherent plane-wave compounding (CPWC) ultrasound is an important modality enabl
 
 ### Thesis Link
 http://hdl.handle.net/1828/11925
+
+### IEEE Publication Link
+ https://ieeexplore.ieee.org/document/9251457
+
