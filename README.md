@@ -1,2 +1,3 @@
-# Thesis - Stratifed-Medium Sound Speed Profiling for CPWC Ultrasound Imaging
+:-:
+# Stratifed-Medium Sound Speed Profiling for CPWC Ultrasound Imaging
 ### Abstract
